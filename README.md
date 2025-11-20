@@ -1,2 +1,2 @@
-# Index
+# Hosting
 CV - Kevin Hernandez
